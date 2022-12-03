@@ -53,7 +53,7 @@ export function About() {
         <div className="d-flex flex-row align-items-center justify-content-space-between">
           <a href="https://github.com/joshipiyush9969">
             <img
-              src="../public/imgs/git.png"
+              src="/imgs/git.png"
               alt="logo.png"
               width="35px"
               height="35px"
@@ -62,7 +62,7 @@ export function About() {
           </a>
           <a href="https://www.instagram.com/piyush_j.__/">
             <img
-              src="../public/imgs/insta.png"
+              src="/imgs/insta.png"
               alt="logo.png"
               width="30px"
               height="30px"
@@ -71,7 +71,7 @@ export function About() {
           </a>
           <a href="https://www.youtube.com/channel/UCiOy8w9RnUXVtbqdVjy0T2g">
             <img
-              src="../public/imgs/youtube.png"
+              src="/imgs/youtube.png"
               alt="logo.png"
               width="30px"
               height="30px"

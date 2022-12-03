@@ -19,14 +19,14 @@ export function Navbar() {
           <Nav.Link className="text-white fs-6 p-0 me-4" to={"/"} as={NavLink}>
             <img
               className="gif_"
-              src="../public/imgs/fire.gif"
+              src="/imgs/fire.gif"
               alt="logo.png"
               width="70"
               height="70"
             />
             <img
               className="logo"
-              src="../public/imgs/logo.png"
+              src="/imgs/logo.png"
               alt="logo.png"
               width="60"
               height="60"
