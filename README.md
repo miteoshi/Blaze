@@ -1,4 +1,4 @@
-# Blaze  <img src = "https://github.com/joshipiyush9969/Blaze/blob/main/public/imgs/fire.gif" width="30" height="30" />
+# Blaze Kitchen <img src = "https://github.com/joshipiyush9969/Blaze/blob/main/public/imgs/fire.gif" width="30" height="30" />
 Grocery delivery frontend made in React ⚛️
 
 ## Getting Started
