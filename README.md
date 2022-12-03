@@ -14,3 +14,5 @@ npm run dev
 ```
 <br/>
 ⚠️ react-lottie will give warning as it React 18 doesn't support it
+
+![](public/imgs/fire.gif)
