@@ -1,0 +1,12 @@
+.offcanvas {
+    background-image: url("https://media.istockphoto.com/id/1334875361/vector/a-doodle-style-pattern-with-food-products-on-a-black-background.jpg?s=612x612&w=0&k=20&c=_m6wS49RgGltYXBPT0b-Xyh7J19_Us4-sPm0vLeccrg=") !important;
+    object-fit: cover !important;
+    background-color: rgba(124, 3, 3, 0.863) !important;
+    background-blend-mode: multiply !important;
+    background-size: 500px;
+    color: rgb(223, 223, 223) !important;
+}
+
+.offcanvas-header > .btn-close{
+    background-color: rgba(234, 0, 0, 0.863)!important;
+}

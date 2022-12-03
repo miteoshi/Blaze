@@ -1,0 +1,28 @@
+
+.navbar-nav > .active {
+  color: red !important;
+}
+
+.navbar-nav > .nav-link:hover {
+  color: rgb(253, 189, 189) !important;
+}
+
+.logo{
+background-color: "black";
+margin-right: 20;
+}
+
+.logo:hover {
+    opacity:100;
+  }
+
+.gif_{ 
+ position: absolute;
+ left: 5px;
+ opacity: 0;
+ bottom: 5px;
+}
+
+.gif_:hover{
+  opacity: 100;
+}

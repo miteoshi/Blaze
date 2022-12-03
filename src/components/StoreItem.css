@@ -1,0 +1,15 @@
+.btn-outline-light {
+    border-color: white  !important;
+    color: black !important;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+}
+
+.card{
+    transition:0.2s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Al Baik's Fried Chicken",
+    "price": 300,
+    "imgUrl": "/imgs/AI-Baiks_Fried_Chicken.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cafe Zeenat's Chicken Lajawab",
+    "price": 250.50,
+    "imgUrl": "/imgs/Cafe Zeenat's_Chicken_Lajawab.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hyderabadi Dastarkhwan",
+    "price": 390,
+    "imgUrl": "/imgs/Hyderabadi_Dastarkhwan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sigdi's Chicken Mulghai",
+    "price": 150,
+    "imgUrl": "/imgs/Sigdi_Chicken_Mulghai.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smokey Joe's Cheese Burst",
+    "price": 330,
+    "imgUrl": "/imgs/Smokey_Joe's_Cheese Burst.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Chef's Wife's Seekh Kabab",
+    "price": 280,
+    "imgUrl": "/imgs/The Chef's_Wife's_Seekh_Kabab.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vadapav",
+    "price": 15,
+    "imgUrl": "/imgs/Vadapav.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Taste Maker's Spicy Noodles",
+    "price": 110,
+    "imgUrl": "/imgs/Spicy_Noodles.jpg"
+  }
+]
